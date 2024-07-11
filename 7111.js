@@ -2,7 +2,7 @@
 // @name         达加马专用
 // @namespace    https://b23.tv/22UnV4z
 // @version      7.11.1
-// @description  登录后点击上方按钮然后点击语文再点击其他科即可
+// @description  登录后点击上方按钮
 // @author       慕若
 // @run-at       document-start
 // @match        http*://test.k12media.cn:8000/tqweb/*
